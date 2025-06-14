@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Style Sphere</title>
+    <style>
+        body {
+            font-family: Verdana, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #CECBC8;
+        }
+        header {
+            background: #614E41;
+            color: #fff;
+            padding: 10px 20px;
+            text-align: center;
+        }
+        nav {
+            margin: 15px 0;
+        }
+        nav a {
+            margin: 0 15px;
+            color: #fff;
+            text-decoration: none;
+        }
+        section {
+            padding: 20px;
+            background: #fff;
+            margin: 15px;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+        footer {
+            text-align: center;
+            padding: 10px 0;
+            background: #333;
+            color: #fff;
+            position: absolute;
+            width: 100%;
+            bottom: 0;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Style Sphere</h1>
+        <nav>
+            <a href="#home">Home</a>
+            <a href="#member">Member</a>
+            <a href="#games">Games</a>
+            <a href="#history">History<a/>
+        </nav>
+    </header>
+    
+    <section id="home">
+        <h2>Home</h2>
+        <p>Welcome to <strong>Style-Sphere</strong>, ruang digital di mana mode bertemu hiburan!  
+
+Di era di mana tren fashion berubah begitu cepat, kami hadir untuk memberikan informasi terbaru seputar gaya, tips berpakaian, dan tren yang sedang hype. Selain itu, Style-Sphere juga menghadirkan beragam <i>game interaktif bertema fashion</i> yang siap menguji kreativitas dan selera gaya kamu.  
+
+Apakah kamu seorang fashionista yang ingin selalu tampil up-to-date atau sekadar mencari hiburan seru, Style-Sphere akan menjadi tempat ideal untuk mengeksplorasi dunia mode dengan cara yang menyenangkan. Mari jelajahi <i>artikel inspiratif, tren terkini, dan game seru</i> yang membuatmu semakin paham dan cinta dengan fashion!<p/>
+<p>
+Selamat menikmati pengalaman seru bersama kami! 🌐</p>
+<p>
+Tertanda,  
+Tim Style-Sphere.</p>
+
+<div style="position: relative; width: 100%; height: 0; padding-top: 56.2500%;
+ padding-bottom: 0; box-shadow: 0 2px 8px 0 rgba(63,69,81,0.16); margin-top: 1.6em; margin-bottom: 0.9em; overflow: hidden;
+ border-radius: 8px; will-change: transform;">
+  <iframe loading="lazy" style="position: absolute; width: 100%; height: 100%; top: 0; left: 0; border: none; padding: 0;margin: 0;"
+    src="https://www.canva.com/design/DAGU8Kck1wY/H0Gkn2cvHjFbbZtJ8WOJlg/view?embed" allowfullscreen="allowfullscreen" allow="fullscreen">
+  </iframe>
+</div>
+<a href="https:&#x2F;&#x2F;www.canva.com&#x2F;design&#x2F;DAGU8Kck1wY&#x2F;H0Gkn2cvHjFbbZtJ8WOJlg&#x2F;view?utm_content=DAGU8Kck1wY&amp;utm_campaign=designshare&amp;utm_medium=embeds&amp;utm_source=link" target="_blank" rel="noopener">style sphere</a> by GRACE CAROLINE BARINGBING
+
+    </section>
+</body>
+</html>
